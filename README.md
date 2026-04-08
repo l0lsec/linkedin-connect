@@ -1,6 +1,6 @@
 # LinkedIn Connect Automation
 
-Automate LinkedIn connection requests via the internal Voyager API. Reads a text file of profile URLs, resolves each to an internal URN, and sends connection invitations with a custom note.
+Automate LinkedIn connection requests via the Voyager API. Reads a text file of profile URLs, resolves each to an internal URN, and sends connection invitations with a custom note.
 
 ## Requirements
 
